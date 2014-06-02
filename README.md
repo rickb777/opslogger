@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/EqualExperts/opslogger.svg?branch=master)](https://travis-ci.org/EqualExperts/opslogger)
+[![Build Status](https://travis-ci.org/rickb777/opslogger.svg?branch=master)](https://travis-ci.org/rickb777/opslogger)
 
 ##Getting started
 
